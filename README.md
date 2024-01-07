@@ -1,9 +1,19 @@
 
 
-<div align=center>
-![앱로고](./img/앱로고.png)
- <h1>지하차도, 지하주차장 침수관리 시스템</h1>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+![앱로고](https://github.com/jjunehee/WATERBELL/assets/83155528/d4ef4c1a-3209-41fc-944c-6131c05ab5eb)
+# 지하차도, 지하주차장 침수관리 시스템
+
 
 <br>
 
@@ -71,24 +81,24 @@
 
 | IoT 수위 측정 |    차수판 제어  |전광판 제어|
 | :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![IoT수위측정](./img/IoT수위측정.mp4)  | ![차수판제어](./img/차수판제어.mp4)   | ![전광판제어](./img/전광판제어.mp4)               |
+| ![IoT수위측정](./img/수위측정.gif)  | ![차수판제어](./img/차수판제어.gif)   | [![전광판제어](./img/전광판제어.gif)] |
 
 ### 현황판
 
 |             CCTV, 침수지도, 강수량, 수위 조회        |                          강수량 그래프                                          |                           수위센서 그래프                            |
 | :--------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![현황판 전체](/README.assets/대시보드 전체.gif)  |                             ![강수량 그래프](/README.assets/강수량 그래프.png)                              |               ![수위센서 그래프](/README.assets/수위센서 그래프.png)               |
+| ![대시보드 전체](https://github.com/jjunehee/WATERBELL/assets/83155528/70cb3e04-19d6-470e-bba3-c445490ccfea)  |                             ![강수량 그래프](https://github.com/jjunehee/WATERBELL/assets/83155528/ff8e71e3-de65-4af8-a253-81de530bec30)                              |               ![수위센서 그래프](https://github.com/jjunehee/WATERBELL/assets/83155528/b0692453-b6c7-42a1-aa05-e9655c04f525)               |
 
 ### 제어, 알림
 
 |            차수판, 전광판, LED 원격 제어            |                                  문자 알림                                           |                           웹 알림                            |
 | :--------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![ezgif.com-video-to-gif__4_](/uploads/0f6871d6c2c24a7fea60bc898112a817/ezgif.com-video-to-gif__4_.gif)  |                             ![차수판 작동문자](/README.assets/차수판 작동시 문자.png)                            |               ![ezgif.com-video-to-gif__3_](/uploads/41d532214e49f8db55b6090ab9506d87/ezgif.com-video-to-gif__3_.gif)               |
+| ![ezgif com-video-to-gif__4_](https://github.com/jjunehee/WATERBELL/assets/83155528/ded251ec-5de5-41a2-a805-00231e19d9c4)  |                             ![차수판 작동시 문자](https://github.com/jjunehee/WATERBELL/assets/83155528/3714f0e5-ff7b-4f4d-99a4-809a85eb1321)                            |               ![ezgif com-video-to-gif__3_](https://github.com/jjunehee/WATERBELL/assets/83155528/0c304ff1-751d-48bd-b87b-3a296d77b824)               |
 
 ### 로그 조회
 |  수위 센서    |     기기 상태      |       기기 제어         |       알림         |
 | :----------------------: | :---------------------------------------: | :--------------------------------------: |:--------------------------------------: |
-| ![Untitled__3_](/uploads/7a2a8d815736d376961a3b8a072b1718/Untitled__3_.png)  |   ![Untitled__5_](/uploads/a9466c3d5fe6fd87339a14a5840e77b1/Untitled__5_.png)       | ![Untitled__6_](/uploads/e6291b7bb4038820bbfa6ad84ec86472/Untitled__6_.png)    |![Untitled__4_](/uploads/a292c933d3dbca695d9de3fd6cc94fa1/Untitled__4_.png)    |
+| ![수위센서](https://github.com/jjunehee/WATERBELL/assets/83155528/aa48ad21-7606-464a-a195-df269b639fd7)  |   ![기기상태](https://github.com/jjunehee/WATERBELL/assets/83155528/a7eea11c-7c17-4518-8df8-0c546c187ac8)       | ![기기제어](https://github.com/jjunehee/WATERBELL/assets/83155528/c37d73e6-6dec-4cb5-b05f-d3a4c4962296)    |![알림](https://github.com/jjunehee/WATERBELL/assets/83155528/6aacde0c-645b-4678-bb07-644af33d9d6a))    |
 
 
 ### 신고접수
@@ -131,7 +141,7 @@
 ![목업5](./img/목업5.PNG)
 
 ### 아키텍처, 기술스택
-![기술스택](./img/기술스택.PNG)
+![아키텍쳐](https://github.com/jjunehee/WATERBELL/assets/83155528/aac75492-856b-4c5f-a700-621123ed293c)
 
 <br>
 
@@ -144,7 +154,7 @@
 <br>
 
 ### ERD
-![ERD](/uploads/cbdb821af5066702a4d628eb18c756cc/ERD.PNG)
+![ERD](./img/ERD.PNG)
 
 <br>
 
